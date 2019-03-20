@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "abc",
+  "main": "abc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudheesh1737/node-js-sbce.git"
+  },
+  "author": "sudheesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudheesh1737/node-js-sbce/issues"
+  },
+  "homepage": "https://github.com/sudheesh1737/node-js-sbce#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
